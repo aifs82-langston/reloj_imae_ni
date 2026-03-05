@@ -18,6 +18,7 @@ df_base = cargar_datos()
 sectores_nombres = {
     "IMAE_General": "IMAE GENERAL",
     "IMAE_Impuestos": "IMAE Impuestos",
+    "IMAE_AntesImpuestos": "IMAE antes de impuestos",
     "IMAE_Agricultura": "IMAE Agricultura",
     "IMAE_Pecuario": "IMAE Pecuario",
     "IMAE_Silvic": "IMAE Silvicultura y extracción de madera",
