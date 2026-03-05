@@ -25,12 +25,17 @@ sectores_nombres = {
     "IMAE_Minas": "IMAE Explotación de minas y canteras",
     "IMAE_Manufact": "IMAE Industria manufactura",
     "IMAE_Construccion": "IMAE Construcción",
-    "IVAE_Comercio_Servicios": "COMERCIO Y SERVICIOS",
-    "IVAE_Info_Comunicaciones": "INFORMACIÓN Y COMUNICACIONES",
-    "IVAE_Financiero": "ACTIVIDADES FINANCIERAS Y DE SEGUROS",
-    "IVAE_Inmobiliario": "ACTIVIDADES INMOBILIARIAS",
-    "IVAE_Servicios_Profesionales": "SERVICIOS PROFESIONALES Y TÉCNICOS",
-    "IVAE_Servicios_Publicos": "ADMINISTRACIÓN PÚBLICA Y DEFENSA"
+    "IMAE_EnergyAgua": "IMAE Energía y agua",
+    "IMAE_Comercio": "IMAE Comercio",
+    "IMAE_HotelesyRest": "IMAE Hoteles y Restaurantes",
+    "IMAE_TranspyComunic": "IMAE Transporte y comunicaciones",
+    "IMAE_IntermFinanc": "IMAE Intermediación financiera y servicios conexos",
+    "IMAE_PropVivienda": "IMAE Propiedad de vivienda",
+    "IMAE_AdmonPub": "IMAE Administración pública y defensa",
+    "IMAE_Enseñanza": "IMAE Enseñanza",
+    "IMAE_Salud": "IMAE Salud",
+    "IMAE_OtrosServs": "IMAE Otros servicios"
+    
 }
 
 st.title("🟢📈 → 🟡⛰️ → 🔴📉 → 🔵🔄 Gráficos de reloj de la tendencia-ciclo del Índice Mensual de Actividad Económica (IMAE) de Nicaragua")
