@@ -42,6 +42,7 @@ sectores_nombres = {
 st.title("🟢📈 → 🟡⛰️ → 🔴📉 → 🔵🔄 Gráficos de reloj de la tendencia-ciclo del Índice Mensual de Actividad Económica (IMAE) de Nicaragua")
 st.image("FullLogo.png", width=300)
 st.subheader("Comparativo de los últimos 3 años.")
+st.markdown("[Haz clic aquí para acceder al artículo en Substack](https://open.substack.com/pub/aifloressarria/p/el-reloj-de-los-ciclos-economicos-5ea?utm_campaign=post-expanded-share&utm_medium=web)")
 st.markdown("Alfredo Ibrahim Flores Sarria ©2026")
 
 # ==========================================
